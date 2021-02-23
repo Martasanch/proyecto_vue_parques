@@ -1,21 +1,23 @@
 <template>
   <div class="parques">
-   <!-- <img alt="logo4" src="../assets/logo4.jpg" height="300">  -->
-  <!--  <img alt="logo4" src="../assets/logo7.jpg" height="300"> 
-    -->
-   
-    <p>
+
+    <div>
      <Parques/>
-    </p>
+    </div>
+   
   </div>
+
 </template>
 
 <script>
 import Parques from '@/components/Parques'
+
 import {ref, reactive, onMounted} from "vue"
 export default {
   components: {
-    Parques
+    Parques,
+  
+    
   },
 setup(){
 
@@ -30,9 +32,15 @@ setup(){
 
 
 <style lang="scss" scoped>
-/* .parques{
-  background-image:url("../assets/logo7.jpg");
-    background-size: cover;
-  background-repeat:no-repeat;
-} */
+.parques{
+
+	height: 1300px ;
+ 	background-image:url("../assets/img1.jpg");
+	background-size: cover;
+	background-repeat:repeat;
+
+
+
+}
+
 </style>

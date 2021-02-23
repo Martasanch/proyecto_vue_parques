@@ -54,7 +54,7 @@
 
 <div class="row tarjetas d-flex justify-content-center">
     <div class="card card1" style="width: 18rem;">
-  <img src="../assets/logo6.jpg" class="card-img-top" alt="...">
+  <img src="../assets/logo6.jpg" width="200" height="200" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Actividades</h5>
     <p class="card-text">Nuestros parques son espacios recreativos, pero tambien son ideales para relacionarnos, o incluso para practicar deporte en grupo.<br>¿Quieres informarnos de alguna de tus actividades?</p>
@@ -66,7 +66,7 @@
   </div>
 </div>
     <div class="card card2" style="width: 18rem;">
-  <img src="../assets/logo13.jpg" class="card-img-top" alt="...">
+  <img src="../assets/logo13.jpg" width="200" height="200" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Desconexión</h5>
     <p class="card-text">¿Estás estresado? quizá necesitas desconectar de la jungla de asfalto, respirar aire limpio, o disfrutar de una puesta de sol. Descubre los mejores lugares, y sube tus fotos para que otros usuarios puedan verlas. </p>
@@ -78,7 +78,7 @@
   </div>
 </div>
     <div class="card card3" style="width: 18rem;">
-  <img src="../assets/logo11.jpg" class="card-img-top" alt="...">
+  <img src="../assets/logo11.jpg" width="200" height="200" class="card-img-top" alt="...">
   <div class="card-body">
     <h5 class="card-title">Street music</h5>
     <p class="card-text">Entérate en tiempo real de las actuaciones de nuestros artistas callejeros, y disfruta de la música al aire libre.</p>
