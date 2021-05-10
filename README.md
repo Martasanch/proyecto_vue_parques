@@ -4,16 +4,14 @@
 * Vue 3
 * Consulta a la API del Ayuntamiento de Madrid
 * Creación y edicción de contenido
-* Integración de Mapa vue-maps con localización de coordenadas 
+* Integración de Mapa leaflet en VUE con localización de coordenadas 
 
 
 ## Stack
 
 * Sass
-* JavaScript
-* NodeJS
-* MongoDB
 * VueJS Composition API
+* Bootstrap
 
 ## Project setup
 ```
