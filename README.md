@@ -7,28 +7,12 @@
 * Integración de Mapa vue-maps con localización de coordenadas 
 
 
-
-## Project setup
-
-### Frontend:
-
-* cd frontend
-* npm install
-* npm run serve
-
-### Backend:
-
-* cd backend
-* npm install
-* npm start
-
-
 ## Stack
 
 * Sass
 * JavaScript
 * NodeJS
-* MongoDB Atlas
+* MongoDB
 * VueJS Composition API
 
 ## Project setup
